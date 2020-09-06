@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Anagram
 {
-    class Program
+    public class AnagramSelector
     {
 
         public bool WordPairIsAnagram(string word1, string word2)
